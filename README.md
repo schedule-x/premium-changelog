@@ -4,6 +4,12 @@ Customer-facing release notes for [Schedule-X Premium](https://schedule-x.dev/pr
 
 This changelog includes product features, bug fixes, dependency updates, and breaking changes relevant to customers. Internal maintenance changes are intentionally omitted.
 
+## 15.7.2 (2026-09-08)
+
+### Bug Fixes
+
+* **drag-and-drop:** update the resource ID when dragging an event in the resource time grid
+
 ## 15.7.1 (2026-09-03)
 
 ### Bug Fixes
