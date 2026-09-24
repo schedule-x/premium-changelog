@@ -4,6 +4,21 @@ Customer-facing release notes for [Schedule-X Premium](https://schedule-x.dev/pr
 
 This changelog includes product features, bug fixes, dependency updates, and breaking changes relevant to customers. Internal maintenance changes are intentionally omitted.
 
+## 16.0.0 (2026-09-21)
+
+### Features
+
+* **interactive-event-modal:** add configurable dialog and side-panel editor layouts
+* **interactive-event-modal:** keep the desktop side panel open while interacting with the calendar and show it full-screen on small screens
+* **sidebar:** add host-provided calendar actions with text and color dialogs, pending states, and error handling
+* **sidebar:** add reactive calendar label and color updates
+* **sidebar:** redesign the calendar list with a compact layout and improved mobile behavior
+
+### BREAKING CHANGES
+
+* **interactive-event-modal:** create and edit forms now use a centered dialog by default; integrations that override the previous form markup, positioning, or styling hooks must be updated
+* **sidebar:** the default markup, dimensions, styling, and control layout have changed; integrations that override sidebar styles or rely on the previous layout must be updated
+
 ## 15.7.2 (2026-09-08)
 
 ### Bug Fixes
