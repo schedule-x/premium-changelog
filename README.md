@@ -4,6 +4,12 @@ Customer-facing release notes for [Schedule-X Premium](https://schedule-x.dev/pr
 
 This changelog includes product features, bug fixes, dependency updates, and breaking changes relevant to customers. Internal maintenance changes are intentionally omitted.
 
+## 16.0.1 (2026-09-24)
+
+### Bug Fixes
+
+* **sidebar:** fill the available height when the calendar uses a dynamic height
+
 ## 16.0.0 (2026-09-21)
 
 ### Features
