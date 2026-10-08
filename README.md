@@ -4,6 +4,12 @@ Customer-facing release notes for [Schedule-X Premium](https://schedule-x.dev/pr
 
 This changelog includes product features, bug fixes, dependency updates, and breaking changes relevant to customers. Internal maintenance changes are intentionally omitted.
 
+## 16.0.2 (2026-10-06)
+
+### Bug Fixes
+
+* **sidebar:** keep the add-event button state consistent
+
 ## 16.0.1 (2026-09-24)
 
 ### Bug Fixes
